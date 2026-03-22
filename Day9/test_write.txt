@@ -1,0 +1,6 @@
+hi 
+cd "c:\Users\Prabhanshu\Desktop\c++\Day9\" ; if ($?) { g++ GiveUserSpaceuntillRunFile.cpp -o GiveUserSpaceuntillRunFile } ; if ($?) { .\GiveUserSpaceuntillRunFile }
+cd "c:\Users\Prabhanshu\Desktop\c++\Day9\" ; if ($?) { g++ GiveUserSpaceuntillRunFile.cpp -o GiveUserSpaceuntillRunFile } ; if ($?) { .\GiveUserSpaceuntillRunFile }
+cd "c:\Users\Prabhanshu\Desktop\c++\Day9\" ; if ($?) { g++ GiveUserSpaceuntillRunFile.cpp -o GiveUserSpaceuntillRunFile } ; if ($?) { .\GiveUserSpaceuntillRunFile }
+cd "c:\Users\Prabhanshu\Desktop\c++\Day9\" ; if ($?) { g++ GiveUserSpaceuntillRunFile.cpp -o GiveUserSpaceuntillRunFile } ; if ($?) { .\GiveUserSpaceuntillRunFile }
+cd "c:\Users\Prabhanshu\Desktop\c++\Day9\" ; if ($?) { g++ GiveUserSpaceuntillRunFile.cpp -o GiveUserSpaceuntillRunFile } ; if ($?) { .\GiveUserSpaceuntillRunFile }
